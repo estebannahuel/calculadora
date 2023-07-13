@@ -35,7 +35,7 @@ if(operacion === "+"){
 }console.log(resultado)
 
 }else {
-  console.log("ERROR: la operacion no es valida")
+  console.log("ERROR: la operacion no esta mal")
 }
 
 
